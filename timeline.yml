@@ -1,0 +1,36 @@
+SUSE Linux Enterprise Desktop 11 SP3:
+  milestone:
+    - Alpha3: 20130124
+    - Beta1: 20130214
+    - Beta2: 20130228
+    - Beta3: 20130314
+    - Beta4: 20130404
+    - RC1: 20130425
+    - RC2: 20130516
+    - GMC: 20130606
+    - GM: 20130621
+  monthly:
+    - qa cycle: 20130124-20130621
+    - post shipment: 20130622-today
+
+SUSE Linux Enterprise Desktop 12:
+  milestone:
+    - Alpha3: 20140130
+    - Beta1: 20140220
+    - Beta2: 20140306
+    - Beta3: 20140320
+    - Beta4: 20140403
+    - Beta5: 20140417
+    - Beta6: 20140511
+    - Beta7: 20140523
+    - Beta8: 20140605
+    - Beta9: 20140619
+    - Beta10: 20140710
+    - RC1: 20140731
+    - RC2: 20140821
+    - RC3: 20140910
+    - GMC: 20141006
+    - GM: 20141016
+  monthly:
+    - qa cycle: 20140130-20141017
+    - post shipment: 20141018-today
