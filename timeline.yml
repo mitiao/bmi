@@ -34,3 +34,18 @@ SUSE Linux Enterprise Desktop 12:
   monthly:
     - qa cycle: 20140130-20141017
     - post shipment: 20141018-today
+
+SUSE Linux Enterprise Desktop 11 SP4 (SLED 11 SP4):
+  milestone:
+    - Alpha3: 20150122
+    - Beta1: 20150205
+    - Beta2: 20150305
+    - Beta3: 20150319
+    - Beta4: 20150423
+    - RC1: 20150507
+    - RC2: 20150521
+    - GMC: 20150618
+    - GM: 20150625
+  monthly:
+    - qa cycle: 20150122-20150625
+    - post shipment: 20150626-today
