@@ -249,6 +249,8 @@ sub caculate_plot_bmi {
 	$f->append('<br>'."\n");
 	$f->append($openclose->burn());
 
+    # add single quotation to name that prevent error when launched in shell
+    $svg_name = "\'".$svg_name."\'";
 	system("/usr/bin/firefox $svg_name");
 	# print $graph->burn();
 }
